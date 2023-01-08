@@ -1,0 +1,25 @@
+.form input ,.form button{
+    width:200px;
+    height: 40px;
+    border-radius: 16px;
+    margin:4px;
+    border:1px solid #888;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align:center;
+}
+
+button{
+    cursor: pointer;
+}
+/* .posts{
+    width: max-content;
+    background-color: #666;
+    border:1px solid #444;
+    position: relative;
+    top:40px;
+    left:400px;
+} */
